@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Olá! Eu sou o Fernandoo Castro! 👋
+### Olá! Eu sou o Fernando Castro! 👋
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando.qnz?igsh=aWd4NmhweHY3OHo1)
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernandocastroqnz)
