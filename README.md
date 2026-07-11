@@ -49,9 +49,22 @@ Backend em Python com FastAPI e PostgreSQL, explorando construção de APIs.
 
 ---
 
+### 🎓 Formação acadêmica
+
+- **Tecnologia em Redes de Computadores** — Universidade Federal do Ceará (UFC), Campus Quixadá (2025–2029)
+- **Técnico em Informática** (integrado ao Ensino Médio) — EEEP Clemente Olintho Távora Arruda (2022–2024)
+
+### 💼 Experiência
+
+- **Assistência e Suporte Remoto** — Infortech Baturité (Estágio, 2024) — suporte técnico e infraestrutura de TI
+
 ### 🏆 Certificações
 
 - Introdução ao Java Cloud Native com o Bradesco — **DIO** (credencial DAFOGNG2)
+- Trilha Java — **Capacita IREDE** / Ministério da Ciência, Tecnologia e Inovação (MCTI)
+- AWS Academy Cloud Foundation — **Amazon Web Services (AWS)**
+- HCIA-5G V2.0 Course — **Huawei Talent Online**
+- 5G Basics: What it's all about — **Huawei ICT Academy**
 
 ---
 
